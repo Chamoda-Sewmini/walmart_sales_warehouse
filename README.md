@@ -18,7 +18,7 @@ The project integrates multiple data sources, including CSV and JSON files, perf
 | `features.csv`  | Economic indicators and markdowns |
 | `stores.csv`    | Store information                 |
 | `holidays.json` | US public holiday data            |
-| `test.csv`      | Forecasting/test data             |
+
 
 ## 🔄 Project Workflow
 
