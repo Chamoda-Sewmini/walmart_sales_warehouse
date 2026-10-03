@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\Academic\\3rd year\\1st sem\\DWBI\\Assignment\\DWBI_Walmart\\WalmartDW_Cube\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3DF9F-6042-C82D-C9FE-32908864A14B}|WalmartDW_Cube.dwproj|C:\\Users\\MSI\\Desktop\\Academic\\3rd year\\1st sem\\DWBI\\Assignment\\DWBI_Walmart\\WalmartDW_Cube\\Cube_Walmart DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{45A3DF9F-6042-C82D-C9FE-32908864A14B}|WalmartDW_Cube.dwproj|solutionrelative:Cube_Walmart DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3DF9F-6042-C82D-C9FE-32908864A14B}|WalmartDW_Cube.dwproj|C:\\Users\\MSI\\Desktop\\Academic\\3rd year\\1st sem\\DWBI\\Assignment\\DWBI_Walmart\\WalmartDW_Cube\\Holiday Week Flag.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{45A3DF9F-6042-C82D-C9FE-32908864A14B}|WalmartDW_Cube.dwproj|solutionrelative:Holiday Week Flag.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3DF9F-6042-C82D-C9FE-32908864A14B}|WalmartDW_Cube.dwproj|C:\\Users\\MSI\\Desktop\\Academic\\3rd year\\1st sem\\DWBI\\Assignment\\DWBI_Walmart\\WalmartDW_Cube\\Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{45A3DF9F-6042-C82D-C9FE-32908864A14B}|WalmartDW_Cube.dwproj|solutionrelative:Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 156,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cube_Walmart DW.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Academic\\3rd year\\1st sem\\DWBI\\Assignment\\DWBI_Walmart\\WalmartDW_Cube\\Cube_Walmart DW.cube",
+              "RelativeDocumentMoniker": "Cube_Walmart DW.cube",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\Academic\\3rd year\\1st sem\\DWBI\\Assignment\\DWBI_Walmart\\WalmartDW_Cube\\Cube_Walmart DW.cube [Design]",
+              "RelativeToolTip": "Cube_Walmart DW.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-30T14:36:46.274Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Holiday Week Flag.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Academic\\3rd year\\1st sem\\DWBI\\Assignment\\DWBI_Walmart\\WalmartDW_Cube\\Holiday Week Flag.dim",
+              "RelativeDocumentMoniker": "Holiday Week Flag.dim",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\Academic\\3rd year\\1st sem\\DWBI\\Assignment\\DWBI_Walmart\\WalmartDW_Cube\\Holiday Week Flag.dim [Design]",
+              "RelativeToolTip": "Holiday Week Flag.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-30T10:37:54.406Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Date.dim [Design]",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Academic\\3rd year\\1st sem\\DWBI\\Assignment\\DWBI_Walmart\\WalmartDW_Cube\\Date.dim",
+              "RelativeDocumentMoniker": "Date.dim",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\Academic\\3rd year\\1st sem\\DWBI\\Assignment\\DWBI_Walmart\\WalmartDW_Cube\\Date.dim [Design]",
+              "RelativeToolTip": "Date.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-09-30T14:49:43.857Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
